@@ -9,6 +9,7 @@ setup.py
 ../../build/mars_rovers_systems/mars_rovers_systems.egg-info/top_level.txt
 ../../build/mars_rovers_systems/mars_rovers_systems.egg-info/zip-safe
 mars_rovers_systems/__init__.py
+mars_rovers_systems/heartbeat.py
 resource/mars_rovers_systems
 test/test_copyright.py
 test/test_flake8.py
